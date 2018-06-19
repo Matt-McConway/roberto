@@ -38,7 +38,8 @@
 
 6. Now add each token as below:
     * With the environment running, use:
-        * `export VARIABLENAME='APITOKEN'`
+        * `export VARIABLENAME=APITOKEN`
+        * NOTE: If you are on windows use: `set VARIABLENAME=APITOKEN`
 
 
 **Now that your virtual environment is set up, in the future you simply need to run the environment!**
@@ -51,4 +52,4 @@
     * (win-env) M:\Code\GitHub\Slackbot\roberto\env>
         * (Name of your environment in parentheses)
 
-Once the environment is running, you simply run the app with `python bot.py`
+Once the environment is running, you simply run the app with `python bot.py` *when you are in the src directory.*
