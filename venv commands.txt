@@ -1,2 +1,0 @@
-source envs/mac_dev/bin/activate
-Windows 10 -  win_dev\Scripts\activate
